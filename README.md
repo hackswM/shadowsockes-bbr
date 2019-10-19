@@ -1,4 +1,4 @@
-# shadowsockes-bbr  
+# shadowsockes-bbr  --bbr加入失败
 # config.json
 ```json
 {
@@ -12,4 +12,4 @@
     "mode":"tcp_and_udp"
 }
 ```
-hub.docker.com  search linux52/ss-bbr  or docker pull linux52/ss-bbr
+#正常无bbr docker pull linux52/shadowsockes-test
