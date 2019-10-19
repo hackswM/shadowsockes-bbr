@@ -1,4 +1,4 @@
-# shadowsockes-bbr
+# shadowsockes-bbr  
 # config.json
 ```json
 {
@@ -11,3 +11,5 @@
     "nameserver":"8.8.8.8",
     "mode":"tcp_and_udp"
 }
+```
+hub.docker.com  search linux52/ss-bbr  or docker pull linux52/ss-bbr
