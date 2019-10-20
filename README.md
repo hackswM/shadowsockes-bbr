@@ -1,4 +1,7 @@
-# shadowsockes-bbr  --bbr加入失败
+# shadowsockes-bbr  --bbr  
+必须加特权运行差数 --privileged
+··json
+ docker run --privileged -d -p 9013:9013 test
 # config.json
 ```json
 {
